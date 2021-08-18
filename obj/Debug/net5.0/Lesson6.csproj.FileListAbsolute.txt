@@ -1,0 +1,16 @@
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\bin\Debug\net5.0\Lesson6.exe
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\bin\Debug\net5.0\Lesson6.deps.json
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\bin\Debug\net5.0\Lesson6.runtimeconfig.json
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\bin\Debug\net5.0\Lesson6.runtimeconfig.dev.json
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\bin\Debug\net5.0\Lesson6.dll
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\bin\Debug\net5.0\ref\Lesson6.dll
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\bin\Debug\net5.0\Lesson6.pdb
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\obj\Debug\net5.0\Lesson6.csproj.AssemblyReference.cache
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\obj\Debug\net5.0\Lesson6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\obj\Debug\net5.0\Lesson6.AssemblyInfoInputs.cache
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\obj\Debug\net5.0\Lesson6.AssemblyInfo.cs
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\obj\Debug\net5.0\Lesson6.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\obj\Debug\net5.0\Lesson6.dll
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\obj\Debug\net5.0\ref\Lesson6.dll
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\obj\Debug\net5.0\Lesson6.pdb
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson6\obj\Debug\net5.0\Lesson6.genruntimeconfig.cache
